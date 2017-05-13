@@ -27,11 +27,6 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
-    compile 'io.reactivex:rxjava:1.1.6'
-    compile 'com.squareup.retrofit2:retrofit:2.2.0'
-    compile 'com.squareup.picasso:picasso:2.5.2'
-    compile 'com.android.support:recyclerview-v7:25.3.1'
-    compile 'com.hannesdorfmann.mosby3:mvi:3.0.3'
-    compile 'com.android.databinding:compiler:2.3.2'
+
     testCompile 'junit:junit:4.12'
 }
