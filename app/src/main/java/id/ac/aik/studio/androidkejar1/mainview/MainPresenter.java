@@ -2,8 +2,8 @@ package id.ac.aik.studio.androidkejar1.mainview;
 
 import android.text.TextUtils;
 
-import id.ac.aik.studio.androidkejar1.maininteractor.InterfaceMain;
-import id.ac.aik.studio.androidkejar1.maininteractor.InterfacePresenter;
+import id.ac.aik.studio.androidkejar1.interactor.InterfaceMain;
+import id.ac.aik.studio.androidkejar1.interactor.InterfacePresenter;
 
 /**
  * Created by Imam on 5/13/2017.

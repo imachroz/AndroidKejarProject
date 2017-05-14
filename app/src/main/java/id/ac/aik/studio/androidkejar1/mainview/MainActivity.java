@@ -9,8 +9,8 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import id.ac.aik.studio.androidkejar1.R;
-import id.ac.aik.studio.androidkejar1.maininteractor.InterfaceMain;
-import id.ac.aik.studio.androidkejar1.maininteractor.InterfacePresenter;
+import id.ac.aik.studio.androidkejar1.interactor.InterfaceMain;
+import id.ac.aik.studio.androidkejar1.interactor.InterfacePresenter;
 
 public class MainActivity extends AppCompatActivity implements InterfaceMain {
 

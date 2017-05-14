@@ -1,4 +1,4 @@
-package id.ac.aik.studio.androidkejar1.maininteractor;
+package id.ac.aik.studio.androidkejar1.interactor;
 
 /**
  * Created by Imam on 5/13/2017.
